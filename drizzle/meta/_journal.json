@@ -15,6 +15,20 @@
       "when": 1705608640711,
       "tag": "0001_normal_chameleon",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1705608754112,
+      "tag": "0002_parallel_zaran",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1705608802221,
+      "tag": "0003_greedy_rattler",
+      "breakpoints": true
     }
   ]
 }
