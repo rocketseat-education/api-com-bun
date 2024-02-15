@@ -29,6 +29,13 @@
       "when": 1705608802221,
       "tag": "0003_greedy_rattler",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1708016259063,
+      "tag": "0004_dry_violations",
+      "breakpoints": true
     }
   ]
 }
