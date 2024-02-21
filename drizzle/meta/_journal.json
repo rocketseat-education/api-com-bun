@@ -36,6 +36,13 @@
       "when": 1708016259063,
       "tag": "0004_dry_violations",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1708533840515,
+      "tag": "0005_panoramic_valkyrie",
+      "breakpoints": true
     }
   ]
 }
