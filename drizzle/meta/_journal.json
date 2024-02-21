@@ -43,6 +43,13 @@
       "when": 1708533840515,
       "tag": "0005_panoramic_valkyrie",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1708535288348,
+      "tag": "0006_peaceful_mysterio",
+      "breakpoints": true
     }
   ]
 }
